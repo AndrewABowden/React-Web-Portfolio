@@ -91,10 +91,8 @@ class ResultsTab extends React.Component {
           </div>
         </div>
         <Modal isOpen={this.state.modal}>
-          <ModalHeader><span className="logo"><b>cocktail</b>creator</span></ModalHeader>
-          <ModalBody>
-            <span className="modalText">Almost there. Add a few more ingredients and check <i>Ready to enjoy</i>.</span>
-          </ModalBody>
+          <ModalHeader><span className="logo"><b>Andrew</b>Bowden</span></ModalHeader>
+      
           <ModalFooter>
             <button onClick={this.closeModal} class="button float-right">Ok</button>
           </ModalFooter>

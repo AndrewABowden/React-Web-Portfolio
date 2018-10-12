@@ -1,9 +1,9 @@
 {
-  "name": "project3",
+  "name": "Portfolio",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:L-Ward/project3.git",
-  "author": "L-Ward <noreply>",
+  "repository": "git@github.com:AndrewABowden/React-Web-Portfolio.git",
+  "author": "Andrew",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
